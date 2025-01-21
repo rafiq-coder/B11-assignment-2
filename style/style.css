@@ -1,0 +1,62 @@
+.navbar {
+    display: flex;
+    justify-content: space-around;
+
+    align-items: center;
+}
+
+.logo-heading {
+    display: flex;
+
+    align-items: center;
+}
+
+.nav-heading {
+    font-size: 32px;
+}
+
+.nav-logo {
+    width: 62px;
+    height: 62px;
+
+}
+
+
+.anchor {}
+
+.nav-anchor {
+    text-decoration: none;
+    margin-right: 32px;
+
+
+}
+
+#home {
+    color: #FEA301;
+    font-size: 20px;
+}
+
+#about {
+    color: #01ACFD;
+    font-size: 20px;
+}
+
+#facilities {
+    color: #05D4DF;
+    font-size: 20px;
+}
+
+#admission {
+    color: #5D58EF;
+    font-size: 20px;
+}
+
+.nav-btn {
+    background-color: #FEA301;
+    width: 197px;
+    height: 50px;
+    border: none;
+    border-radius: 12px;
+    font-size: 20px;
+    color: #FFFFFF;
+}
